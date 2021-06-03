@@ -1,0 +1,994 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A catalogue of books of two eminent mathematicians consisting of a curious collection of history, divinity, philosophy; but chiefly the mathematicks. In Latin, English and French in all volumes. Which will be exposed to sale by way of auction, on Thursday next being the 21st of this instant May, 1691. at Roll's Coffee-House on the north-side of St. Paul's Church-Yard. By John Bullord.</title>
+            <author>Bullord, John.</author>
+         </titleStmt>
+         <extent>Approx. 70KB of XML-encoded text transcribed from 11 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78303</idno><idno type="EEBO-CITATION">99897957</idno>
+  <idno type="VID">171046</idno>
+  <idno type="EEBO-PROQUEST">2264170779</idno>
+  
+            <idno type="STC">Wing C1287</idno>
+            <idno type="STC">ESTC R230265</idno>
+            <idno type="PROQUEST">99897957</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99897957e"/>
+            <note>(EEBO-TCP ; phase 2, no. A78303)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171046)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2552:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A catalogue of books of two eminent mathematicians consisting of a curious collection of history, divinity, philosophy; but chiefly the mathematicks. In Latin, English and French in all volumes. Which will be exposed to sale by way of auction, on Thursday next being the 21st of this instant May, 1691. at Roll's Coffee-House on the north-side of St. Paul's Church-Yard. By John Bullord.</title>
+                  <author>Bullord, John.</author>
+               </titleStmt>
+               <extent>[4], 20 p.   </extent>
+               <publicationStmt>
+                  <publisher>Catalogues whereof are distributed gratis at Mr. Richard Parker's under the Piazza of the Royal Exchange;  Mr. Bullord in St. Paul's Church Yard; Mr. Goodwin against St. Dunstans-Church in Fleet-Street; Mr. Partridge at the Post Office at Charing-Cross; Mrs. Feltham in Westminster-Hall, and at Roll's Coffee-House,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1691]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication from Wing.</note>
+                  <note>Lv copy, reel 2552, is lacking all after p. 16.</note>
+                  <note>UMI Tracts supplement filmed copy with pp.19-20 filmed following next item (821.i.9.(8)).</note>
+                  <note>Reproduction of original in the Victoria and Albert Museum, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Book auctions --  England --  Early works to 1800.</term>
+               <term type="topical_term">Catalogs, Booksellers' --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171046:1"/>
+            <pb facs="tcp:171046:1"/>
+            <p>A CATALOGUE OF BOOKS OF TWO <hi>Eminent Mathematicians;</hi> Consisting of a curious Collection of <hi>History, Divinity, Philosophy;</hi> but chiefly the <hi>Mathematicks.</hi>
+            </p>
+            <p>In <hi>Latin, English</hi> and <hi>French</hi> in all Volumes.</p>
+            <p>Which will be exposed to Sale by way of Auction, on <hi>Thursday</hi> next being the 21st of this instant <hi>May,</hi> 1691. at <hi>Roll</hi>'s Coffee-House on the North-side of St. <hi>Paul</hi>'s <hi>Church-Yard.</hi>
+            </p>
+            <p>
+               <hi>By</hi> JOHN BULLORD.</p>
+            <p>Catalogues whereof are distributed <hi>gratis</hi> at Mr. <hi>Richard Parker</hi>'s un<g ref="char:EOLhyphen"/>der the <hi>Piazza</hi> of the <hi>Royal Exchange;</hi> Mr. <hi>Bullord</hi> in St. <hi>Paul</hi>'s <hi>Church Yard;</hi> Mr. <hi>Goodwin</hi> against St. <hi>Dunstans-Church</hi> in <hi>Fleet-Street;</hi> Mr. <hi>Partridge</hi> at the <hi>Post Office</hi> at <hi>Charing-Cross;</hi> Mrs. <hi>Feltham</hi> in <hi>Westminster-Hall,</hi> and at <hi>Roll</hi>'s Coffee-House.</p>
+         </div>
+         <div type="conditions_of_sale">
+            <pb facs="tcp:171046:2"/>
+            <head>Conditions of SALE.</head>
+            <p n="1">
+               <hi>I.</hi> HE that bids most is the Buyer; and if any Difference arise, the said Book, or Books, shall forthwith be exposed to Sale again.</p>
+            <p n="2">
+               <hi>II.</hi> That all the Books in the Catalogue, not otherwise expressed, are perfect for ought we know; but if any of them appear to be otherwise before they are taken away, the Buyer shall have his choice of taking or leaving them.</p>
+            <p n="3">
+               <hi>III.</hi> That all Gentlemen will be pleased to give in their Names and Places of Abode, after their buying any Book or Books, pay<g ref="char:EOLhyphen"/>ing also <hi>5 s.</hi> in the Pound, in part of the Book or Books they shall buy, (if demanded,) and proportionably for all lesser Sums.</p>
+            <p n="4">
+               <hi>IV.</hi> That there shall not be less than Six Pence advance for all Books after they arise to Ten Shillings.</p>
+            <p n="5">
+               <hi>V.</hi> That the Money for the Book or Books bought, is to be paid within six Days after the Auction is ended, at <hi>Roll</hi>'s <hi>Coffee-House.</hi>
+            </p>
+            <p>This <hi>AUCTION</hi> will be held at <hi>Roll</hi>'s Coffee-House, on <hi>Thursday</hi> the 21st. of this Instant <hi>May, 1691.</hi> from Two of the Clock in the Afternoon to Eight, and so continued daily till all are Sold. Where the Books will be exposed to view before the Sale.</p>
+         </div>
+      </front>
+      <body>
+         <div type="auction_catalogue__books">
+            <pb facs="tcp:171046:2"/>
+            <list>
+               <head>Divinity, History, &amp;c. in Folio.</head>
+               <item>1 DR. Featly's 70 Sermons on difficult and mysterious Texts of Script. 1637</item>
+               <item>2 Ed. Leigh, M.A. Annotations upon the New Testament 1650</item>
+               <item>3 Dr. Spon's Hist. of the City and State of Geneva, with figures in Eng. 1687</item>
+               <item>4 All the Works of J. Taylor, the Water Poet, being 63 in Number. 1630</item>
+               <item>5 Bishop Richardson's Annotations upon the Old Testament. 1655</item>
+               <item>6 Roger's Comment. upon the Book of Judges, in 103 Sermons.</item>
+               <item>7 Plutarch's Lives of the noble Greeks and Romans compared. <hi>Wants the Title.</hi>
+               </item>
+               <item>8 The Hist. or Dial of Princes, with the Emperor, M. Aurelius's famous Book.</item>
+               <item>9 The Works of the Reverend and Learned John White, D. D. 1624.</item>
+               <item>10 The History of the Council of Trent, and the Inquisition. 1676</item>
+               <item>11 Bishop Morton of the Antiquity of the Protestant Religion to Popery.</item>
+               <item>12 Bateman upon Bartholom. treating of Astron. Geograph. Fish. Fowl, &amp;c.</item>
+               <item>13 Hackluit's Navigations, Voyages and Discoveries of the English by Land &amp; Sea.</item>
+               <item>14 Rich Baxter's Directory, or Resolution of Cases of Conscience. 1677</item>
+               <item>15 — Catholick Theology. 1675</item>
+               <item>16 Dr. Ed. Kellet's 3 Treatises on the Lords Supper, 1641</item>
+               <item>17 Rich. Clerk (one of the Translators of the Bible) his Sermons. 1637</item>
+               <item>18 Lord Bacon's Natural History in ten Centuries.</item>
+               <item>19 Dr. Crook's Description of the Body of Man and Woman, or Anatomy with fig.</item>
+               <item>20 Sir W. Rawleigh's Hist. of the World in 5 Books, with his Life &amp; Tryal. 1687</item>
+               <item>21 T. Cartwright's Refutation of the Rhemists Testament, and their Annotat. 1618</item>
+               <item>22 Bp. Babington's Works, Exposit. upon the Creed, 10 Commandments, &amp;c. 1636</item>
+               <item>23 Philip Lord Mornay's History of the Mass.</item>
+               <item>24 Mr. Mason's Acts of the Church, or Abridgment of the Book of Martyrs.</item>
+               <item>25 Mr. Bacon's History of the Government of Eng. from Mr. Selden's Notes. 1689</item>
+               <item>26 Bishop Burnet's History of the Reformation in 2 Vol. 1681</item>
+               <item>27 — History of the Church of Scotland. 1677</item>
+               <item>28 Dr. Mayer's Expos. upon the Historical Books of the Old Testament. 1647</item>
+               <item>29 — Comment. on the Four Evangelists, and Acts of the Apostles. 1631</item>
+               <item>30 The Works of the Reverend and Learned Mr. W. Perkins in 3 Vol. 1627</item>
+               <item>31 Bishop Wilkins's Essay towards a real Character, with Figures. 1668</item>
+               <item>32 The Spanish Rogue, or the Life of Gusman, Englished. 1633</item>
+               <item>33 Godfry of Bulloign, or the Recovey of Jerusalem from the Saracens. 1630</item>
+               <item>34 The Hist. of Images, the creeping in of Popery, with the memorable Acts of the Learned Pope Joan, &amp; of the obscure Age after her, with other Tracts, a Manusc.</item>
+               <item>35 Mr. Martin's Chronicle of the Kings of Eng. from W. the Conqueror to Qu. Eliz.</item>
+               <item>36 Isaac Ambrose his Works compleat. 1686</item>
+               <item>37 Cambden's History of the victorous Queen Elizabeth. 1688</item>
+               <item>38 The Travels of Mr. Thevenot into Turky, Persia, &amp; the E. Indies with Fig. 1685</item>
+               <item>39 A World of Wonders, or a Prepar. Treat. to the Apology for Herodotus, by H. Stephens.</item>
+               <item>40 Grimston's Hist. of the Estates, Empires and Principalities in the World.</item>
+               <item>41 A Review of the Council of Trent, the Nullity and Mischiefs thereof. 1638</item>
+               <item>42 Bishop Andrew's Ninty six Sermons. 1631</item>
+               <item>43 Bishop Sanderson's 20 Sermons. 1656</item>
+               <item>44 H. Davis's Rights belonging to Uniformity in Churches, in 3 Books. 1669</item>
+               <pb facs="tcp:171046:3"/>
+               <item>45 The Works of the Reverend and Learned Bishop Bramhal. 1679</item>
+               <item>46 Dr. Th. Goodwin's Expos. upon the Epist. to the Ephesians, with other Sermons.</item>
+               <item>47 Mr. John Calvin of the Institution of the Christian Religion in Enlish.</item>
+               <item>48 Dr. Cracanthorp of the 5th Gen. Council at Const. against Baronius, Baronius, &amp;c.</item>
+               <item>49 Du Bartas his Divius, Weeks, and Works Englished by J. Silvester. 1633</item>
+               <item>50 Dr. Grew's Catol. and Descript. of the Rarities of the Royal Society, with Fig.</item>
+               <item>51 Sam. Foster's Miscellaneous Mathematical Tracts. 1658</item>
+               <item>52 P. Camerarius, Meditations Historical, Moral, Natural and Political. 1632</item>
+               <item>53 Dallington's Histories Military and Civil from Guiccardine.</item>
+               <item>54 The History of the Wars of Ireland, the Siege of Kinsale, the Defeat of Ty<g ref="char:EOLhyphen"/>rone, &amp;c. and its Reducement Illustrated with Maps. 1633</item>
+               <item>55 Sir Tho. Brown's Works, viz. Vulg. Errors, Religio Medici, &amp;c. 1676</item>
+               <item>56 Dr. Comber's Works in an Exposition of the Common Prayer, &amp;c. 1688</item>
+               <item>57 Burton's Anatomy of Melancholy, with its Cause and Cure. 1652</item>
+               <item>58 Lex Mercatoria, or the Law Merchant in 3 Parts. 1686</item>
+               <item>59 J. W's Mystery of Husbandry discovered, viz. Planting, Manuring, &amp;c. 1681</item>
+               <item>60 Songs, Set by Signor Peitro Reggio, Printed upon 71 Copper Plates.</item>
+               <item>61 The History of Don Quixot, and Sancha Panca, with Figures. 1687</item>
+               <item>62 Lord Bacon's History of the Reign of Henry the 7th.</item>
+               <item>63 J. Barret's Dictionary English, Latin, Greek and French.</item>
+               <item>64 J. Babington's Artific. Fire-Works, with a large Treat. of Geometry, with Fig.</item>
+               <item>65 Dr. Nalson's Impartial Collect. of State Affairs to the year 1648. in 2 Vol. 1682</item>
+               <item>66 Mr. Wrights History and Antiquities of Rutlandshire, with Maps &amp; Fig. 1684</item>
+               <item>67 Dr. Borlace's History of the Execrable Irish Rebellion in 1641. 1680</item>
+               <item>68 Homers Illiads and Odysses, translated into Eng. Verse by Mr. Chapman.</item>
+               <item>69 The Commentaries of Mr. Montluc. Battels, storming Towns, &amp;c. 1674</item>
+               <item>70 The History of Ethiopia, or Empire of Prester John, with Maps. 1684</item>
+               <item>71 Sir Fra. Vere's Commentaries of War illustrated with Maps and Figures. 1654</item>
+               <item>72 Lord General Monk's Observations upon Military and Political Affairs. 1671</item>
+               <item>73 Mr. Knoll's History of the Turks from the first beginning with Figures. 1610</item>
+               <item>74 Mr. Brown's Acad. for Drawing Painting, Limning, Etching, upon 31 Copp. Cuts.</item>
+               <item>75 Mr. Brook's Catalogue of Kings, Dukes, &amp;c. of Eng. being a Treat. of Heraldry.</item>
+               <item>76 A new Method of Horsemanship, by the Duke of Newcastle. 1667</item>
+               <item>77 The Travels and Adventures of M. Pinto to the remote Parts of the World.</item>
+               <item>77 Herberts Travels into Persia and the E. Indies with Maps and Figures. 1634</item>
+               <item>79 The Roman Hist. by Corn. Tacitus, with the Descript. of Germany.</item>
+               <item>80 Petrie's compendious Hist. of the Catholick Ch. from the year 600 to 1600</item>
+               <item>81 Dr. Bail's Wall-Flower, an Hist. partly true, partly Romantick. 1661</item>
+               <item>82 Lewis Roberts, the Merchants Map of Commerce. 1636</item>
+               <item>83 N. Causins Holy Court <hi>Printed by Bently.</hi> 1650</item>
+               <item>84 Am. Marcellinus his History of the Roman Emperors.</item>
+               <item>85 The Jesuit's-Morals Collected by a Dr. of the Sorbon, Englished, 1676</item>
+               <item>86 Plutarch's Lives of the Greeks and Romans compared. 1651</item>
+               <item>87 The Ancient History of Polybius, translated into English.</item>
+               <item>88 The Hist. of the Reform. of the Ch. begun in Germany by D Mart. Luth. 1689</item>
+               <item>89 The Hist. of the Republick of Venice by Mr. Nani, Englished. 1678</item>
+               <item>90 Sir P. Ricaut's Hist. of the Turks from their Orig. to 1687. in 2 Vol. with their Effigies on Copper Cuts. 1687</item>
+            </list>
+            <list>
+               <pb n="1" facs="tcp:171046:3"/>
+               <head>BOOKS in Folio, <hi>Latin, French, English,</hi> &amp;c.</head>
+               <item>1 SEveral Mathematical Collections of Mr. Sam. Fosters, in Lat. &amp; Eng. 1659</item>
+               <item>2 Tabulae Motuum Coelestium Universales. D. Ben. Fernandez <hi>Flor.</hi> 1647</item>
+               <item>3 Varia Opera Mathematica. D. Pet. De Fermat. <hi>Tolos.</hi> 1672</item>
+               <item>4 Pet. Martyris De Orbe Novo. 1530</item>
+               <item>5 Steph. Szegidini Loci Communes. <hi>Bas.</hi> 1612</item>
+               <item>6 M. Meibomij De proportionibus. &amp; Fran. Xaverij De Quad. Circuli. <hi>Ant.</hi> 16<gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>6</item>
+               <item>7 Euclidis Sex Libri priores De Geometricis principijs. Gr. Lat. <hi>Bas.</hi>
+               </item>
+               <item>8 Vop. Fort. Plempij Ophthalmographiae, Sive De Oculo. <hi>Lov.</hi> 1659</item>
+               <item>9 Arithmetica Logarithmetica, sive Logarith. Chiliades Triginta, per H Briggs. 1624</item>
+               <item>10 Dio. Alexandrini Arithmeticorum, cum Comment. De Fermat. Gr. Lat. <hi>Tol.</hi> 1670</item>
+               <item>11 Seb. Jequierdi Pharus Scientiarum, de Orig. &amp; Natur. Intellect. humanae. 1659</item>
+               <item>12 Euclidis Elementorum Lib. 15. <hi>Paris.</hi> Hen. Stephens.</item>
+               <item>13 Claud. Mydorgii Catoptic. &amp; Dioptic. sive Conocorum. Id. 1641</item>
+               <item>14 Aeschinij, &amp;c. Oratorum Veterum Orationes. Gr. Lat. Hen. Stephani.</item>
+               <item>15 Hen. Briggs. &amp; Hen. Gellibrand. Trigonometira Britannica. <hi>Goud.</hi> 1633</item>
+               <item>16 Euclide, Delle Scientiae Mathematice, Diligente Mente Reassettato. <hi>Ven.</hi> 1643</item>
+               <item>17 Nat. Duret. Theoria Planetarum Brevis ex Opera Kepleri. Lat. Fr. <hi>Lond.</hi> 1647</item>
+               <item>18 J. Hevelij. Annus Climactericus. Cum figuris. <hi>Amst.</hi> 1685</item>
+               <item>19 Jac. Golij Lexicon Arabico-Latinum. <hi>Lugd. Bat.</hi> 1653</item>
+               <item>20 Theod. Beza. Novum Testamentum, Gr. Lat. 1598</item>
+               <item>21 Biblia Hebraica. A Pagnino Cum N. Testament. Graec. a Ar. Montano. 1657</item>
+               <item>22 Primunl Mobile, Viz. Trigon. Spheric. Astron. &amp; Geog. A. Aul. Magino. <hi>Bon.</hi> 1609</item>
+               <item>23 Chronol. Ab Initio Mundi ad An. 1568. Ex Eclips &amp; Observat. G. Mercat. 1599</item>
+               <item>24 J. Avenarij Lexicon Hebraicum <hi>Witt.</hi> 1589</item>
+               <item>25 Lexicon Geographicum Novum. P. M. A. Baudrand. <hi>Isen.</hi> 1677</item>
+               <item>26 La Mecografia Della, Calamita. De Laymant. Cum figuris. 1603</item>
+               <item>27 And. Tacqueti Mathematicae Collect. sive Opera Ejus. <hi>Ant.</hi> 1669</item>
+               <item>28 Historie De Fl. Josephe Par. Gel. Genebrard. D. D. <hi>Par.</hi> 1578</item>
+               <item>29 L'Isole Piu Famose Del Mondo. Discrette Da Tho. Areitino. Cum fig. <hi>Ven.</hi>
+               </item>
+               <item>30 Le Deche Di. T. Livio Pad. Delle Historie Romane. <hi>Ven.</hi> 1554</item>
+               <item>31 Pap. Alexandrini Mathematicae Collections. a F. Comandino <hi>Bon.</hi> 1660</item>
+               <item>31 Practical Perspective, Or Perspective made easie, with Figures, by J. Moxon. 1670</item>
+               <item>33 Astrologia Gallica, principijs &amp; Ration propriis Stabil. a J.B. Morin. <hi>Hag.</hi> 1661</item>
+               <item>34 Danica Historia a Saxon. Grammatico. <hi>Franc.</hi>
+               </item>
+               <item>35 Astronomia Anglicana, Or a Body of Astronomy, by N. Greenwood 1689</item>
+               <item>36 Joan. Taffneri Opus Mathematicum.</item>
+               <item>37 Tycho Brahe Astronomiae Instauratae Mechanica. <hi>Nor.</hi> 1602</item>
+               <item>38 Prosodia in Vocabularium Trilingue, Lat. Lusit. &amp; Castel. a B. Perexra <hi>Ʋlp.</hi> 1683</item>
+               <item>39 Cl. Ptolemaei, Perfect. Caelestium Motuum petractationis Cum Comment. Th. Alexandrini. Graece <hi>Bas.</hi> 1538</item>
+               <item>40 Cartes. De toutes Les Costes De France, in Meditarannee a Tassin.</item>
+               <item>41 L'Italia Descritta in Gener. Di G. Ant. Mag. with 60 Maps Color'd, <hi>Bolog.</hi> 1630</item>
+               <pb n="2" facs="tcp:171046:4"/>
+               <item>42 Recevil De Cartes Du Duval &amp; different Authors: Cont. 31 Maps</item>
+               <item>43 Galliae Tabulae Geographicae Per Ger. Mercat. &amp; German. with 74 Maps colored.</item>
+               <item>44 La France En 64 Cartes.</item>
+               <item>45 La Saincte Geographie. Par Jac. D. Lapyre <hi>Par.</hi> 1629</item>
+               <item>46 Institutio Christianae Religionis. a J. Calvino <hi>Gen.</hi> 1598</item>
+               <item>47 Lexicon Greco-Latinum. P. J. Scapula <hi>Bas.</hi>
+               </item>
+               <item>40 Nic. Copernici De Orb. Coelestium Revolutionum Id.</item>
+               <item>49 Cardanus de Arithmetic.</item>
+               <item>50 Theatrum Machinarum Novum Exhibens Opera Molaria &amp; Aquatica. A Geo. And. Boclero. Cum 154 figuris <hi>Col. Ag.</hi> 1662</item>
+               <item>51 Annalium Mundi Universal. ab Orbe Condito. per H. Robinsonum <hi>Lond.</hi> 1677</item>
+               <item>52 C. Plinij. Historia Naturalis <hi>Frobin.</hi>
+               </item>
+               <item>53 Alb. Hazen Haly De Judiciis Astrorum</item>
+               <item>55 Chyromancy and Physiognomy made plain, with the signification of Moles on the Bodies of Men, by Rich. Sanders. 1671</item>
+               <item>56 A General Catalogue of Books Printed in England, from 1660 to 1680</item>
+               <item>56 Of Government and Obedience, as directed by Scripture and Reason, by J. Hall. 1654</item>
+               <item>57 The Lives of the Philosophers, with their Effigies, by Tho. Stanley. 1660</item>
+               <item>58 The Annals of the World, cont. the Hist. of the O. and N. Test. by B. Usher. 1658</item>
+               <item>59 The Travels of M. Thevenot, into Turky, Persia and East India, with figures. 1687</item>
+               <item>60 The General History of the Reformation of the Church, begun in Germany by M. Luther. 1689</item>
+               <item>61 An Historical and Political Discourse of the Government of England, by Mr. Ba<g ref="char:EOLhyphen"/>con, from Mr. Selden. 1689</item>
+               <item>62 A Description of the Natural and Artificial Rarities of the Royal Society, by Dr. Grew, with figures.</item>
+               <item>63 The History of the Council of Trent, and the Inquisition, by P. Soaue Eng. 1677</item>
+               <item>64 The Advancement and Proficiency in Learning, by Francis Lord Bacon 1640</item>
+               <item>65 The Hist. of K. John, H. 3. and Edw. 1. from the Records of the Tower, by W.P. 1670</item>
+               <item>66 Remarks on the Lives of the Kings of Fng. with figures, by Sir W. Churchil 1675</item>
+               <item>67 Livy's Roman History, with Freinshemius and Dujacius Supplement 1686</item>
+               <item>68 Maimbourg's History of the Conquest of the Holy Land. 1695</item>
+               <item>69 Rasta<gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'s Collection of Statutes. 1621</item>
+               <item>70 Rushworth's Historical Collections, 1st. Vol. 1659</item>
+               <item>71 Capt. Barry's Military Discipline, with Figures, coloured. <hi>Brus.</hi> 1634</item>
+               <item>72 Mr. Chardins Travels into Persia and the East Indies, with figures. 1684</item>
+               <item>73 York's Heraldry, with the Arms coloured.</item>
+               <item>74 Hexaim's Art Military, with the Figures coloured.</item>
+               <item>75 Hollinshead's Chronicle and History, 3 Tom. 2 Vol. <hi>Lond.</hi>
+               </item>
+               <item>76 Britannia, or the Antiquities of Ancient Britain, with Figures. 1676</item>
+               <item>77 The Antiquities of Rutlandshire, with Figures, by Mr. Wright.</item>
+               <item>70 Rycaut's present State of the Ottoman Empire, with Cuts. 1667</item>
+               <item>79 The Minister of State, by Monsieur de Sillon 1658</item>
+               <item>80 Barret's Dictionary, English, Latin, French. 1580</item>
+               <item>81 Lord Bacon's Natural History, best Edition, with his Life. 1683</item>
+               <item>82 Bowman's Songs for 1, 2, and 3 Voices, with Cuts in Copper. 1679</item>
+               <item>83 K. Charles the I. Large Declaration against the Tumults in Scotland. 1639</item>
+               <item>84 Dr. Cave's Lives of the Fathers, With figures. 1677</item>
+               <pb n="3" facs="tcp:171046:4"/>
+               <item>85 Coke's English Law. 1651</item>
+               <item>86 Cawly's Exposition of the Laws against Roman Catholicks. 1680</item>
+               <item>87 Chaucer's Works.</item>
+               <item>88 Cradock's Harmony of the four Evangelists. 1668</item>
+               <item>89 Dalton's Country Justice, containing the Practice of the Justices. 1635</item>
+               <item>90 Elton's Art of Military Discipline for War. 1668</item>
+               <item>91 Sir William Killigrews four Plays, Siege of Urbin, Selindra, &amp;c. 1666</item>
+               <item>92 Lometius of Painting, Carving, and Building, with figures. 1598</item>
+               <item>93 Dr. Henry More's Mystery of Iniquity. 1664</item>
+               <item>94 Markham's 5 Decades of Epistles of Honour and War. 1622</item>
+               <item>94 Manilius's Sphere Englished, by Sir Ed. Sherburne, with Cuts. 1663</item>
+               <item>96 Naaman the Assyrian, his Disease and Cure, by Dan. Rogers. 1642</item>
+               <item>97 Ogilby's Translation of Aesops Fables, with Annotations and figures. 1668</item>
+               <item>98 Philip's World of Words, or an English Dictionary.</item>
+               <item>99 Pulton's Collection of Statutes. 1640</item>
+               <item>100 Tacticks, or the Art of War, by Elian, with figures. 1616</item>
+               <item>101 Tarsis and Zelia, a famous Romance in 10 Books. 1685</item>
+               <item>102 Military Essays, by Sir James Turner. 1683</item>
+               <item>103 History of Italy in its Original, Glory and Ruine, with figures, by E. W. 1660</item>
+               <item>104 Dalton's Office and Authority of Sheriffs. 1623</item>
+               <item>105 Leonard's Reports. 1662</item>
+               <item>106 Dyer's Reports. 1663</item>
+               <item>107 Judge Hobart's Reports. 1650</item>
+               <item>108 Mercator's Atlas or Description of the World, with Maps. 1635</item>
+               <item>109 The Merchants Map of Commerce, by Lewis Roberts. 1677</item>
+               <item>110 The Coasting Pilot, a Description of the Sea-Coasts, &amp;c. by. J. Seller, with Maps.</item>
+               <item>111 The Guide into Tongues, or a Dictionary of eleven Languages, by J. Minsheu.</item>
+               <item>112 Biblia Germania cum figuris, in 2 Vol. by D. M. Luther. 1581</item>
+               <item>113 —Postilla in Ling. Germanicum. 1568</item>
+               <item>114 And. Alberti Perspectiva, in Ling. German. cum multis figuris.</item>
+               <item>115 Examen Fortificatorum in Ling. German. cum figuris.</item>
+               <item>116 Twerde Deel Der. Terspiegel, cum figuris. <hi>Amst.</hi>
+               </item>
+               <item>117 De Bibel in Duyts Voortiits, by Jacob Liesveldt.</item>
+               <item>118 D. Mart. Luther Colloquia in Ling. German.</item>
+               <item>119 The Holy Bible in 2 Vol. by Dan. Camerus, in the German Language. 1625</item>
+               <item>120 A Book of Plays in German Language, with a great number of Sculpt. 1675</item>
+               <item>122 A Description of the Duke of Holstein's Dominions, with a large number of Maps, in German. 1652</item>
+               <item>123 Joan. Kepleri Mysterium Cosmograph. de Admir. proportione, &amp;c. <hi>Franc.</hi> 1621</item>
+               <item>124 Phil. Lausbergij Astronomi Opera. <hi>Mid.</hi> 1663</item>
+               <item>125 Urania Propitia sive Tabulae Astronomiae Mirefaciles. a M. Cunitio. 1650</item>
+               <item>126 Baf. Fabri Thesaurus Eruditioni Scholasticae. <hi>Franc.</hi> 1664</item>
+               <item>127 Opticae Thesaurus, Alharini Arabis &amp; Vitellonis Opticae. <hi>Bas.</hi> 1572</item>
+               <item>128 Questiones Paripeticae de Rebus Naturalibus, a J. Contareno. <hi>Ven.</hi>
+               </item>
+               <item>129 Fl. Josephi Opera omnia de Antiq. Judaicis, &amp;c. cum multis figuris.</item>
+               <item>130 Aristotelis de moribus, cum Theophrasti &amp; Pythagorae fragment. Gr. Lat.</item>
+               <item>131 D'Mouflet Insectorum, sive Minimorum Animali Theatrum, cum figuris.</item>
+               <item>132 Guil. Kiryandri Augustae Trevorum Ann. sive Comment. Histor. 1670</item>
+               <pb n="4" facs="tcp:171046:5"/>
+               <item>133 Math. Paris Angl. Historia Major ult. Editio. <hi>Lond.</hi> 1683</item>
+               <item>134 Glossarium Archailogicum, cum Schol. &amp; Comment. Illustrata. a H. Spelmano. ult. Editio.</item>
+               <item>135 Joan. Pierij Hieroglyphica Aegyptorum cum mult. Imaginibus Illustrata</item>
+               <item>136 Description Geographique &amp; Historique de la Moree Reconquise par Les Ve<g ref="char:EOLhyphen"/>netiens du Roy Aume de Negropont, cum multis figuris a <hi>Paris</hi> 1687</item>
+               <item>137 Historia Antiquitatis Universitatis Oxoniensis, a Ant. Wood. 1676</item>
+               <item>138 Operis Historici &amp; Chronologici Sacra &amp; Profana, a Rob. Bail. D.D. <hi>Amst.</hi> 1663</item>
+               <item>139 Varidarium Utriusque Eruditionis, tam Sacrae quam Profanae a Mendoca. 1635</item>
+               <item>140 Laurentij Vallae de Linguae Latinae Sermonis.</item>
+               <item>141 Bap. Platinae de Vitis ac Gestis Sum. Pontificium.</item>
+               <item>142 Nicephori Gregoriae Historiae Romanae, Gr. Lat.</item>
+               <item>143 Math. D'Lobel Historia Plantarum cum figuris. <hi>Lond.</hi>
+               </item>
+               <item>144 L' An. Senecae Opera Omnia, cum Annotation. a S. Cunono.</item>
+            </list>
+            <list>
+               <head>BOOKS in Quarto.</head>
+               <item>1 JAc. Bartschij Planispher. Stellat. seu vice Globus Coelestis in plano delineat. 1661</item>
+               <item>2 The Geometrical Key, or the Gate of Equations Unlocked, by T. Baker. 1684</item>
+               <item>3 Scip. Claramontij de Conjectandis Cujusque Moribus &amp; Latitantibus animi affectibus. <hi>Helms.</hi> 1665</item>
+               <item>4 J. S. against Judicial Astrology: Magick and Astrology Vindicated. An Exami<g ref="char:EOLhyphen"/>nation of Sir Christ. Heydon's Defence of Astrology.</item>
+               <item>5 Joan. Bredenburgij &amp; alij Enervatio Tractatus Theologico Politici. 1675</item>
+               <item>6 Septimana Philosophiae Dogmatica, peripateticae Christi Vind. a B. Nano. Pat. 1670</item>
+               <item>7 Septimana philosophica qua Enigmata Aureola &amp; de Hieroglyphicis Aegyptorum a Mich. Maiero. <hi>Franc.</hi> 1620</item>
+               <item>8 Oculus, hoc est Fundamentum Opticum a Chr. Scheinero. 1652</item>
+               <item>9 Joan. Bap. Portae de munitione, cum figuris.</item>
+               <item>10 Fed. Bonaventurae Opuscula Mathematica &amp; La Psiche del Signor Giro. di Gio. Lauci del' Origine del' Anime.</item>
+               <item>11 Joan. Adolphi. Photica (quae vulgo Optica Dicitur) Compendium. 1678</item>
+               <item>12 Joan. Cluverij Historicum totius Mundi Epitome. <hi>Ludg. Bat.</hi> 1657</item>
+               <item>13 Coles Dictionary, Latin before the English, and English before the Latin. 1677</item>
+               <item>14 Jer. Horroccij Opera Mathematica a Joan Flamsted. <hi>Lond.</hi> 1673</item>
+               <item>15 Bath. Petisci Trigonometriae sive de Dimensione Triangulor. <hi>Franc.</hi> 1612</item>
+               <item>16 Ethnophronij Contra Gentiles, de Princip. Relig. Christianae a J. Micrelio. 1647</item>
+               <item>17 Hebraismus 3. viz. 1 Nova Gramatica. 2 Institutione Methodica Accentuati<g ref="char:EOLhyphen"/>onis Hebraeae. 3 Vindiciis Sacrae Scripturae Hebraeae a Math. Wasmuth. 1665</item>
+               <item>18 La Piara Universale di Tutte le professioni del Mondo di T. Garzoni 1665</item>
+               <item>19 Lud. a Ceulen de Circulo &amp; Adscriptis <hi>Ludg. Bat.</hi> 1619</item>
+               <item>20 Nova Demonstratio Immobilitatis Terrae Petita Ex vertute Magnetica, cum multis figuris, a Jac Grandam. &amp; Terra Machinis Mota Dissertat. a P. Casalo. 1645</item>
+               <item>21 Archimedis Opera Apol. Pergaei Conicorum. a Is. Barrow. D. D. 1675</item>
+               <item>22 Synopsis Optica, in qua illa omnia quae ad Opticam, Dioptricam, Catoptricam pertinent. a Honor. Fabro &amp; Heliodori de Opticis Gr. Lat. <hi>Paris</hi> 1657</item>
+               <pb n="5" facs="tcp:171046:5"/>
+               <item>23 An attempt to prove the Motion of the Earth, with four other Tracts by Mr. Hook. 1674</item>
+               <item>24 Mechanick Exercises, or the Doctrine of Handy-works, in two Parts, one Vol<g ref="char:EOLhyphen"/>lume, by Mr. Moxon.</item>
+               <item>25 Joan. Heckeri Motuum Coelestium Ephemerides. ab 1666 ad Ann. 1680</item>
+               <item>26 Euclidis Element. Liber Decimus. &amp; Data Gr. &amp; Lat. <hi>Paris</hi> 1625</item>
+               <item>27 Centuria Problematum Opticorum, cum figuris. a Fr. Eschinardo, <hi>Rom.</hi> 1666</item>
+               <item>28 Joan. Kepleri Astronomia pars optica traditur. <hi>Franc.</hi> 1606</item>
+               <item>29 Joan. Cluverij Tuba Sionis, alias Evangeliorum Method. Expositio. 1647</item>
+               <item>30 Sam. Pomarij de Consensu &amp; Dissensu Corporum Naturalium. Joan. Tackij de Quinta Essent. Vini &amp; Chrisogonia Animalis &amp; Mineralis <hi>Franc.</hi> 1673</item>
+               <item>31 Circulus Pisanus, de veteri &amp; Peripatetica Philosoph. a Cl. Beregardo. 1661</item>
+               <item>32 The Standard of time, or Chronology from the Creation to the Destruction of Jerusalem, by Mr. Swan. 1656</item>
+               <item>33 B. Mazzotta de Triplici Philosophia. Naturali Astrologica &amp; Minerali. 1653</item>
+               <item>34 L'Arti Liberali &amp; Mechanice. La Republica Delle Api &amp; La Monstruosa Fucina Delle Sordidezze de gl' Huomini a G. Bonifaccio. 1628</item>
+               <item>34 Jo. Jungij Doxoscopiae Physica Minores, cum Annotation. <hi>Ham.</hi> 1662</item>
+               <item>35 R. Mos. Majemonidae de Sacrificiis &amp; Abarbanelis in Leviticum. <hi>Lond.</hi> 1683</item>
+               <item>36 Curvi ac Recti proportio a Bar. Sovero &amp; P. Caravaggio. Geometria, Med. 1659</item>
+               <item>37 Claud. Ptolomaei Harmonicorum Gr. &amp; Lat. a Jo. Wallis D. D. <hi>Oxon.</hi> 1682</item>
+               <item>38 Epochae Celebriores, Astronomicis, Historicis, &amp; Chronologicis a J. Gra<g ref="char:EOLhyphen"/>vio. <hi>Lond.</hi> 1650</item>
+               <item>39 Della Misura Dell' Acque Correnti, &amp; de Gl'angeli Dalla gravita Dell' Aria E. Fluidi, &amp;c. <hi>Pad.</hi> 1671</item>
+               <item>40 Jul. Clementis Scoti, Opuscula Varia. <hi>Pat.</hi> 1650</item>
+               <item>41 Chr. Scheibleri Opera Philosophica. <hi>Franc.</hi> 1665</item>
+               <item>42 Bon. Cavlieri Giesuato Overo Tractato delle Settioni Coniche. <hi>Bolog</hi> 1650</item>
+               <item>43 Athan. Kircheri Iter extaticum Coeleste. <hi>Her.</hi> 1660</item>
+               <item>44 Tabulae Friscicae Lunae Solares quadruplices. a N. Muleri. <hi>Alm.</hi> 1611</item>
+               <item>45 Harmonia Definitiva Entium de Mente Graec. Ductorum. Gr. Lat. a G. Ulacho. 1661</item>
+               <item>46 Joan. Mar. Marci Philosphia Vetus Restituta. <hi>Franr.</hi> 1676</item>
+               <item>47 Astronomica quadam ex traditione, Shalii Caolgij Persae. a J. Gravio. 1650</item>
+               <item>48 Scala Grimaldella Libro di Aretmetica, E. Geometria Spec. &amp; Prac. <hi>Ven.</hi> 1669</item>
+               <item>49 Della Nautica Medeterranea di Barb. Crescentio, cum figuris</item>
+               <item>50 J. Dan. Milij Anatomia Auri. <hi>Franc.</hi> 1628</item>
+               <item>51 Jo. a Leuneschlos de Corpore Figuris Ereis Elegantis. Illustratus &amp; Fran. Slusij Problemata Solida &amp; Miscellanea Math. <hi>Heid.</hi> 1658</item>
+               <item>52 Is. Vossij Variarum Observationum Liber. <hi>Lond.</hi> 1685</item>
+               <item>53 Vita Tyc. Brahae. Geo. J. Purchacij &amp; a Regiomontani, &amp; Institutio Astronomica. a Pet. Gaffendo. <hi>Hag.</hi> 1656</item>
+               <item>54 Joan. Wallisij D. D. Opera Mathematica. <hi>Ox.</hi> 1657</item>
+               <item>55 Tyc. Brahae Epistolarum Astromicarum. <hi>Franc.</hi> 1610</item>
+               <item>56 J. Bap. Portae de Aeris Transmutationibus. 1610</item>
+               <item>57 Ephemerides of the Coelestial Motions for 10 years, by J. Gadbury. 1672</item>
+               <item>58 Alex. Andersoni Variorum Problematum Practice. <hi>Par.</hi> 1612</item>
+               <item>59 Prutenicae Tabulae Coelestium Motuum a Eras. Reinholdo.</item>
+               <item>60 De Vero Telescopij Inventore a Pet. Brello. &amp; H. Larissei Capita Opticor. 1650</item>
+               <pb n="6" facs="tcp:171046:6"/>
+               <item>61 Will. Suellij Cyclometricus, de Circuli Dimensione, &amp;c. <hi>Elz.</hi> 1621</item>
+               <item>62 De Relig. Gentil. Errorumque Apud Eos Causis, Anth. Ed. Herbert of Cherb. 1663</item>
+               <item>63 Ol. Borichij de Variis Lat. Linguae Aetatibus. <hi>Haff.</hi> 1675</item>
+               <item>64 Nova Quadraturae Arithmeticae a Pet. Mengolo. &amp; Musica Speculativa. 1670</item>
+               <item>65 Institionum Chronolog. &amp; Arithmet. Chronologicae a G. Beveregio. 1679</item>
+               <item>66 A Treatise of Fire-works, Drawing, Painting, &amp;c. by Mr. Bates.</item>
+               <item>67 Vera Antiquorum Philosophorum Sapientia a T. Satero &amp; alij Tract. 1667</item>
+               <item>68 Questiones. Geomaetricae a P. Ryff. &amp; Episc. Ward Idea Trigonometriae. 1654</item>
+               <item>99 Alex. Andersoni Ad Sectiones Angulares, &amp;c. <hi>Par.</hi> 1615</item>
+               <item>70 Nova Reperta Geometrica, a Joan. Alfonso. <hi>Arn.</hi> 1620</item>
+               <item>71 Flaminij, de hominis felicitate.</item>
+               <item>72 J. But. Delphinatici Opera Geometrica. cum figuris.</item>
+               <item>73 De Motu Naturali Gravium Solidorum &amp; Liquidorum a B. Baliani. <hi>Gen.</hi> 1646</item>
+               <item>74 Opticae. Lib. 4. a Pet. Ranco &amp; Risuero. <hi>Cas.</hi> 1606</item>
+               <item>75 Solutio Problematis de Terra Motu vel Quiete. a J. B. Morino. <hi>Par.</hi> 1631</item>
+               <item>76 Trigonometria Plana &amp; Spherica, a F. B. Cavelerio. <hi>Bon.</hi> 1643</item>
+               <item>77 A Paper Book, containing 5 or 6 Quire.</item>
+               <item>78 Synopsis Musicae, a Joan. Crugero. 1630</item>
+               <item>79 Gas. Scipij &amp; Gab. Naudei Bibliographia Politica. <hi>Helm.</hi> 1663</item>
+               <item>80 Sam. Hartlib's Legacy, or Discourse of Bees, Vines, Orchards, &amp;c. 1651</item>
+               <item>81 Joan. Kepleri Eclogae Chronicae, ex Epist. Doctis. aliquot virorum, &amp;c. 1615</item>
+               <item>82 Pet Rami Arithmet. &amp; Geometriae, &amp; Laz. Schoneri de numeris figuratis.</item>
+               <item>83 The Roman, Jewish, and Attick Antiquities, by Mr. Goodwin and Rous.</item>
+               <item>84 Clavij in Sphaeram I. a Sacro Bosco. <hi>Ludg.</hi>
+               </item>
+               <item>85 Astronomia Danica. a Chr. Longomontano. <hi>Amst.</hi> 1622</item>
+               <item>86 J. Ant. Magini Ephemeridum Coelestium Motuum ab. an. 1608 ad 1630</item>
+               <item>87 Ephemerides Novissimae Motuum Caelestium ab. an. 1641 ad 1658.</item>
+               <item>88 Ephemerides Felsinei Recentiores. ab anno 1675 ad an. 1684. a F. Mezavachis.</item>
+               <item>89 Mart. Evzrari Ephimerides Novae &amp; Exactae. <hi>Commilni.</hi>
+               </item>
+               <item>90 Mellificium Historicum Integrum, in 2 Vol. a Ch. Pezelio 1628</item>
+               <item>91 Seb. Verroni Chronica Ecclesiae &amp; Monarcharum a Cond. Mundo.</item>
+               <item>92 Chr. Clavij Geometria Practica, <hi>Mog.</hi>
+               </item>
+               <item>93 Col. Conimbricensis Comment. in Aristot. Gr. Lat. in 2 Vol.</item>
+               <item>94 P. Bon. Cavelerij Geometria Indivisibilium Continuorum. <hi>Bon.</hi> 1653</item>
+               <item>95 Job. Ludolfi Lexicon, Ethiopico-Latinum. <hi>Lond.</hi> 1661</item>
+               <item>96 De Scriptoribus Hyberniae Lib. duo a Jac. Waraeo. 1639</item>
+               <item>97 Several Mathematical Tracts, fairly written.</item>
+               <item>98 Traite Du Triangle Arithmetique, per. Mr. Pascall. <hi>Par.</hi> 1665</item>
+               <item>99 Joan. Bap. Portae Elementorum Curuilinecrum, cum figuris.</item>
+               <item>100 Navigation by the Mariners plain Scale, new plained by Mr. Collins. 1659</item>
+               <item>101 Admirandum Illud Geometricum Problema, a Fr. Barocio, <hi>Ven.</hi>
+               </item>
+               <item>102 The Principles of Musick in singing, setting, &amp;c. by Mr. Butler.</item>
+               <item>103 Lectiones Geometricae, per Is. Barrow, D. D. cum figuris. <hi>Lond.</hi> 1670</item>
+               <item>104 M. Tullij Ciceronis Opera Omnia. <hi>Amst.</hi> 1661</item>
+               <item>105 Excerpta ex Literis ad. Jo. Hevelium de Rebus Astronomicis. 1683</item>
+               <item>106 Tho. Philologi de Vita Hominis ultra 120 Annos Protrahenda 1550</item>
+               <item>107 Geography Rectified, or a Description of the World; by R. Morden. 1680</item>
+               <item>108 Medecina Mentis &amp; Corporis. <hi>Amst.</hi> 1687</item>
+               <pb n="7" facs="tcp:171046:6"/>
+               <item>109 Ephemerides of the Coelestial Motions, from 1682 to 1701. by J. Gadbury. 1680</item>
+               <item>110 Is. Bullialdi de Lineis Spiralibus Demonst. Novae. <hi>Par.</hi> 1657</item>
+               <item>111 Phylosophiae Naturalis Principia Mathematica a Is. Newton. 1687</item>
+               <item>112 Geometriae Speciosa Elementa. a Pet. Meugolio. <hi>Bon.</hi> 1659</item>
+               <item>113 A New System of the Mathematicks, is 2 Vol. by Sir J. Moor. 1681</item>
+               <item>114 Scip. Claramontius Caecenas de Sede Sublunari Cometorum. <hi>Amst.</hi> 1636</item>
+               <item>115 Practical Navigation in 10 Tracts, by J. Seller. 1169</item>
+               <item>116 De Divinatione Bembi de Animorum Immortal. &amp;c.</item>
+               <item>117 Geometrie Practique, per Ch. de Bouelles, cum figuris.</item>
+               <item>118 Lectiones 18 in quibus opticorum Phenomin. Gen Ratio Expon. Is. Barrow. 1669</item>
+               <item>119 J. Kepleri de Astronomia Lunari. 1634</item>
+               <item>120 Eras. Bartholini Dioristice seu Equationum Determinationes. <hi>Haun.</hi> 1663</item>
+               <item>121 A Discourse of Salt and Fishery, by Mr. J. Collins. 1682</item>
+               <item>122 Scip. Claramontij Opuscula Varia Mathematica. <hi>Bon.</hi> 1653</item>
+               <item>123 Arithmetica Donica a Geo. Frommio. <hi>Han.</hi> 1649</item>
+               <item>124 Opusculum Astronomicum a He. Ranvozio.</item>
+               <item>125 Fra. Maucolici Theoremata de Lumine &amp; Umbra. <hi>Ludg.</hi> 1613</item>
+               <item>126 De proportione Harmonica, a Jac. de Billy. <hi>Par.</hi> 1658</item>
+               <item>127 Cyclometria, ex Lunulis Reciproce Demonstrata, a S. Longomantano.</item>
+               <item>128 Ant. Deusingij de vero System. Mundi Disser. Mathematica. <hi>Amst.</hi> 1643</item>
+               <item>129 The Marriners New Kalendar, by N. Colson. 1677</item>
+               <item>130 Geometriae pars Universalis Inserviens a Jac. Gregorio. Scolv. 1668</item>
+               <item>131 R. Des Cartes. Opera Philosophica. <hi>Amst.</hi> 1658</item>
+               <item>132 —Geometria, Id. 1659</item>
+               <item>133 —Epistolae. Id. 1668</item>
+               <item>134 —Compendium of Musick. <hi>Lond.</hi> 1653</item>
+               <item>135 Exercitationes ad principior. Philosoph. R. D. Cartes. a J. Schutero. 1667</item>
+               <item>136 Dan Lipstorpij Specimina Philosophiae Cartesianae. <hi>Ludg. Bat.</hi> 1653</item>
+               <item>137 Twenty Seven several Catalogues of the Libraries sold by Auction for some years past, viz. Mr. Smith, Scot, Davis, Earl of Anglesey, &amp;c.</item>
+               <item>138 Atheismus Triumphatus, seu Reductio ad Relig. per Scient. Veritates. a Tho. Campanella. <hi>Rom.</hi> 1631</item>
+               <item>139 Consensu &amp; Dissensu Relig. Profanarum, Judais. Samaritanis. Mahomedismi, Gingis, Thanismi, atque. Paganismi precipue Moderne cum vir. Christianae a C. Hoffman. 1667</item>
+               <item>140 De Clepsidarum tum Vulgatioribus, tum Rarioribus quibusdam Phaenominis &amp; Effectibus a C. Stumio. 1674</item>
+               <item>141 De Sectione Superficiei Sphaericae, per superficiem Sphericam Cylindri<g ref="char:EOLhyphen"/>cam, &amp;c. <hi>a Par.</hi> 1663</item>
+               <item>142 Rosetam Geomet. &amp; Lux Mathematica. a Tho. Hobbs. Adv. J. Willis. 1672</item>
+               <item>143. Gramatica Lingua Turciae a Guil. Seaman. <hi>Oxon.</hi> 1670</item>
+               <item>144 Math. Wasmuth Gramatica Arabica. <hi>Amst.</hi> 1654</item>
+               <item>145 Dictionarium Maliacum-Latinum.</item>
+               <item>146 Oc. Borrichij Cogita, de Ling. Lat. &amp; de Causis divers. Linguard. 1682</item>
+               <item>147 Clavis Phylos. Naturalis sive Introduc. ad Arristi. Cartesiana. 1654</item>
+               <item>148 The Circles of Proportion, and Horizontal Instrument, by Mr. Oughtred.</item>
+               <item>149 Joan. Cam. Gloriosi Exercitationum Mathematicarum. <hi>Neap.</hi> 1635</item>
+               <item>150 Geometria a R. Des Cartes cum Observat. Firsa Schooten. 1649</item>
+               <pb n="8" facs="tcp:171046:7"/>
+               <item>151 Elementa Linguae Persicae, &amp; de siglis. a I. Gravio. <hi>Lond.</hi> 1649</item>
+               <item>152 Tho. Camparellae de sensu Rerum &amp; Magia. <hi>Franc.</hi> 1620</item>
+               <item>153 A Bundle of Mathematical Tracts, writ by D. Cluverus; Manuscript.</item>
+               <item>154 Bibliotheca Norfolciena, sive Catalogus Lib. M S. &amp; Impressor. 1681</item>
+               <item>155 Acta Eruditorum. Lipsick. Anno. 1682. and 1683. <hi>Lips.</hi>
+               </item>
+               <item>156 — Id. Anno. 1684. and 1685.</item>
+               <item>157 A bundle of eleven Philosoph. Transactions, a Rectified Account of Time in Fol. 1681. Phillips Geometrical Seaman. Dr. Wallis of Gravity and Gravi<g ref="char:EOLhyphen"/>tation. The Uranical Astrolobe. Briamson of the Mutations of the Seas. Chat<g ref="char:EOLhyphen"/>fields use of the Sector. Papius digester of Bones. Wallis Defence of the Royal Society. A Philos. Essay of Musick.</item>
+               <item>158 J. Bap. Van Helmontij Opera Medicinae. <hi>Amst.</hi>
+               </item>
+               <item>159 Recentiorum Disceptationis de motu cordis a Guil. Harveio cum Jac. Primiro<g ref="char:EOLhyphen"/>si Animadversiones, cum figuris <hi>Ludg. Bat.</hi>
+               </item>
+               <item>160 Jac. Menteli de vera Typographiae Origine. <hi>Par.</hi> 1650</item>
+               <item>161 P. Leopardi Emendationum Miscellaniorum Ch. Plautini.</item>
+               <item>162 Athan. Kircheri Magnes, sive de Arte Magnetica Opus Tripartitium.</item>
+               <item>163 Rog. Baconi Perspectiva, Pit. Rift. Questiones Geometricae, with three Voy<g ref="char:EOLhyphen"/>ages of the Hollanders into the North parts of the World, in Italian, with figur.</item>
+               <item>164 Inst. Velsij in Cebetis Tabulam Commentariorum.</item>
+               <item>165 Catalogus Universalis Librorum in Biblioth. Bodleiana.</item>
+               <item>166 J. W. Textores Synopsis Juris Gentium. <hi>Bas.</hi> 1680</item>
+               <item>167 De Christianae Expeditione apud sinas per Nic. Tregantium. 1615</item>
+               <item>168 De Republica Anglorum Instauranda a Tho. Chaloner.</item>
+               <item>169 P. Simon Disquisitiones Criticae de variis Edition. Bibliorum. 1684</item>
+               <item>160 G. Rolfincij Dissertationes Anatomicae. <hi>Nor.</hi> 1656</item>
+               <item>170 S. Maresij de usu &amp; abusu Rationis &amp; Alij Tract.</item>
+               <item>171 —De Prophetia &amp; Prophetis, &amp; Alij Tract.</item>
+               <item>172 Phil. Rubeni Electorum in quibus Antiqui Ritus Emend. cum figuris.</item>
+               <item>173 Joan. Seldeni Marmora Arundelliana. <hi>Lond.</hi> 1628</item>
+               <item>174 Emblemata sive Symbola, a princip. vir. Ecclesiast. &amp;c, cum figuris.</item>
+               <item>175 Joan. Wallis D. D. Commercium Epistolicum. <hi>Oxon.</hi> 1658</item>
+               <item>176 R. Mos. Majemonidis More Nevochim a J. Buxtorfio. <hi>Bas.</hi> 1629</item>
+               <item>177 Mundi Lapislidius a Ant. a Burgundio, cum figuris. 1654</item>
+               <item>178 Mar. Zuer. Boxhornij Origines Gallicae. <hi>Amst.</hi> 1656</item>
+               <item>179 Hist. Orientalis quae Ex Variis Orient. Monum. Collect. a J.H. Hottinger. 1660</item>
+               <item>180 Terrentius cum notis P. Antesignana. <hi>Ludg.</hi>
+               </item>
+               <item>181 Jo. Buxtorfij Tiberias sive Comment. Masorethicus. <hi>Bas.</hi> 1620</item>
+               <item>182 Ch. Besoldi Delibata Juris Ex Lib. Pandertarum. <hi>Tub.</hi> 1677</item>
+               <item>183 P. Voet Prima Philosophia Reformata. <hi>Traject.</hi> 1657</item>
+               <item>184 Porta Mosis sive Comment. in Lib. Mishnaioth a Ed. Pocock. <hi>Ox.</hi> 1655</item>
+               <item>185 Veterum Epistolarum Hybernicarum Silloge a Episcop. Usher. 1632</item>
+               <item>186 Q. Horratius Flaccus cum Comment. Jac. Cruquij Plaulin. 1604</item>
+               <item>187 Discursus Med. Philosophicus de cafu Adolescentis. a M. Siberio. 1618</item>
+               <item>188 S. Ignatij Epistolae. Gr. &amp; Lat. a Nic. Videlio. <hi>Gen.</hi> 1623</item>
+               <item>189 The Art of Painting by the Ancients, by Fran. Junius. 1638</item>
+               <item>190 The way to Bliss in three Books, by El. Ashmole Esq 1658</item>
+               <item>191 The Practice of Chymical and Hermetical Physick, by Quercetan.</item>
+               <pb n="9" facs="tcp:171046:7"/>
+               <item>192 A Treatise of Policy and Religion, in 2 Vol. by Fitz-herbert. <hi>Doway</hi>
+               </item>
+               <item>193 Pentognosia sive de Modo quod vis Exacte Cognoscendi a Er. Weigelio. 1672</item>
+               <item>194 — Analysis Aristotelica Ex Euclide Restituta. <hi>Gen.</hi> 1658</item>
+               <item>195 Jac. Waraei de Praesulibus Hyberniae. <hi>Dub.</hi> 1626</item>
+               <item>196 Delle Navigationi &amp; Peregrinationi Orientali, cum figuris.</item>
+               <item>197 Antigredad y Excelencias de Granada. <hi>Madrid.</hi> 1608</item>
+               <item>198 Anatomia seu Interiora Rerum, cum Animatarum tum Inanimatarum a Ant. Leeuwenhork, cum figuris. <hi>Lugd. Bat</hi> 1687</item>
+               <item>199 A Collection of Philosophical Transactions for the year 1686. compleat.</item>
+               <item>200 Ov. Montalbani tota Euclidis Planimetria. J. Hevelij. Nat. Cometarum, Catalogus Stellar. Australium Tract. Horolog. Scioter. Typus Eclip. Lu<g ref="char:EOLhyphen"/>rae, Anno 1685. C. Sturmij Scient. Cosmica. V. Beck Exercit. Astronom. J. Regi<g ref="char:EOLhyphen"/>omontani Tabulae Astronom.</item>
+               <item>101 Prodromus Biceps Cono-Ellipticae a Jac Zimmarman. 1679</item>
+               <item>202 Ptolaemeus Parvus in Genethliacis Junctus Arabibus, A. And. Argolo. 1652</item>
+               <item>203 Ch. Hugenij Astroscopia Compend. Gu. Leibnarij de Arte Combinatoria Math. Wasmuthi, Astron. Chronologicae. Ch. Longomont. Dissertatio Astronomica. Tho. Angli. Exercitatio Geometrica. Er. Weigelij de Phasibus Terrae. Ch. Hugenij Syste<g ref="char:EOLhyphen"/>ma Saturnium. Apologia pro Ti. Brahe. Tab. Hist. ad Millin. &amp; Secularia J. D. Fraille. De Centro. Gravitatibus. M. Olyci Arithmeticorum. R. D. Cartes Musi<g ref="char:EOLhyphen"/>cae. J. Becheri Horologium.</item>
+               <item>204 Joan Kepleri Chilias Logarithmorum ad Totidem Numeros Rotundos. 1639</item>
+               <item>205 Pet. Musaei Contra Baro. Herbert. Pro Natur. Religionis. Go. Voigtij. de SS. Triade Querela ad Gassendum de Parum Christianis, &amp;c. de Priscorum Sapient. Placitis Ant. Venerij de Oraculis &amp; Divinat. Antiquorum. J. Pechlini de Potu Theae. Ch. Chinesij de Confusione Linguarum. Paggij de Infelicitate principium. J. Da<g ref="char:EOLhyphen"/>mascene Flagellum Medicorum Astronomiae Imperitorum. Godwini de Antiq. He<g ref="char:EOLhyphen"/>braicarum.</item>
+               <item>206 T. Tyrons Healths Grand Preservative, the Origine of Atheisme 1684. Answer to Dr. Merret. by the Apothecaries Prospect of new England. Treatise of Taxes and Contributions. Foundation for a New Language. Plea for bringing in Irish Cattel. Relation of the Dutch at Amboyna. Tract of Trigonometry. M. S. Naked Truth.</item>
+            </list>
+            <list>
+               <head>BOOKS in Octavo.</head>
+               <item>1 JAc. Welleri Grammatica Graeca. <hi>Lips.</hi> 1660</item>
+               <item>2 Clavis Artis Lullianae, &amp; Casp. Knittely Via Regia ad Omnes Scientias. 1687</item>
+               <item>3 Adagia Optimorum Utriusque Linguae Scriptorum Omnia a P. Manutio. 1603</item>
+               <item>4 Dissertatio de Arthritide, per W. Tenthir, M. D. 1683</item>
+               <item>5 Mart. Schoockij Tractatus Philosophicus de nihilo, &amp;c. Gron. 1661</item>
+               <item>6 J. Elsholtij Anthropometria, &amp; S. Fuchsij Metoposcopeia, cum figuris. 1615</item>
+               <item>7 Algebra, or the resolving an Equation, by R. Balani. 1653</item>
+               <item>8 Claud. Maugers French Grammer, with Dialogues. 1670</item>
+               <item>9 Guil. Oughtred. Opuscula Mathematica Hactenus inaudita. <hi>Ox.</hi> 1677</item>
+               <item>10 Nic. Mercatoris Institutionum Astronomicarum. <hi>Lond.</hi> 1676</item>
+               <item>11 Jo<gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c. Ringerbergi Institutiones Astronomicae.</item>
+               <item>12 De Ipsa Natura. a Rob. Boyle. <hi>Lond.</hi> 1687</item>
+               <pb n="10" facs="tcp:171046:8"/>
+               <item>13 Jul. Caes. Scaligeri de Causis Linguae Latinae.</item>
+               <item>14 R. Gocleni de Hominis Perfectione, &amp; de Risu &amp; Lacrymis. de Nat. &amp; Arte.</item>
+               <item>15 De Scriptoribus Ecclesiasticis &amp; Chronologia Brevis. a Card. Bellarmine &amp; de Li<g ref="char:EOLhyphen"/>bertate Veterum Doctorum Scripta Judicandi, a J. Botsacco. 1664</item>
+               <item>16 Manuale Philosophicum Quadripartitum a Ad. Scherzero. 1663</item>
+               <item>17 Schrevelij Lexicon, Gr. &amp; Lat.</item>
+               <item>18 J. Ch. Kolhansij Tractatus Opticus. <hi>Lips.</hi> 1663</item>
+               <item>19 Physical Consideration of Worms in the Bodies of Men, by Dr. Ramsey.</item>
+               <item>20 Bald. Ronssei de Humani Vitae Primordiis &amp; alij Tractat.</item>
+               <item>21 Notitia Conciliorum Santae Ecclesiae. a Joan. Cabassutio. <hi>Ven.</hi> 1669</item>
+               <item>22 Summa Philosophiae a Fr. Eustachio. <hi>Ludg. Bat.</hi> 1647</item>
+               <item>23 Vonder Becte Experimenta &amp; Medita. Circa Naturalium Rerum principia. 1683</item>
+               <item>24 Tyrocinium Chimicum a Joan. Bequino. 1656</item>
+               <item>25 Palaestra Oratoria a Jac. Masenio. <hi>Col. Agr.</hi> 1659</item>
+               <item>26 J. Wallis D. D. Grammat. Ling. Anglic. &amp; Stirpini Institution. Glotticae. 1671</item>
+               <item>27 A Concordancy of Years, by Mr. Hopton.</item>
+               <item>28 Joan. Buxtorfij Thesauri Gram. Ling. Sancte &amp; Grammat. Chaldaicae</item>
+               <item>29 Mich. Pselli Compendium Mathematicum. <hi>Elz.</hi> 1647</item>
+               <item>30 Euclidis Elementorum. a Chr. Clavio. <hi>Franc.</hi> 1656</item>
+               <item>31 A Rational way of preparing Animals, &amp;c. for Physical Use, by Dr. Bolnest.</item>
+               <item>32 The History of the Sevarites inhabiting Terra Australis Incognitae. 1675</item>
+               <item>Porphyry de Abstinentia. Gr. &amp; Lat. <hi>Ludg.</hi> 1620</item>
+               <item>34 Priapzira sive Diversorum Poetarum in Priapum Lusus, cum Comment. G. Scop<g ref="char:EOLhyphen"/>pi &amp; Jos. Schaliger &amp; Epistolae Scoppi. <hi>Pat.</hi> 1665</item>
+               <item>35 Joan. Buxtorfij. Inst. Epistolaris Hebraica, &amp; Florileg. Hebraic. 1650</item>
+               <item>36 Euclidis Elementorum, Lib. 15. Is. Barrow. <hi>Cant.</hi> 16 9</item>
+               <item>37 J. Ch. Sturmij Philosphia Eclectica. 1686</item>
+               <item>38 G. Isendoorn Effatorum Philosophicorum Cent quinque. 1643</item>
+               <item>39 Phil. Horst. Methodus Conficiendarum Epistolarum.</item>
+               <item>40 Geo Meiero Gnostologia Cognitionis Humanae Fundamenta &amp; Mich. Eisteri Primordia Pausophiae, &amp;c. 1651</item>
+               <item>41 De Christiane Expeditione Apud Sinas, a Nic. Trignatio. 1618</item>
+               <item>42 Eunapius Sardianus de Vitis Philosophorum &amp; Apollodorus G. L.</item>
+               <item>43 Tho. Angli de fide &amp; Gratia Adami, &amp;c. 1659</item>
+               <item>44 Ed. Weigely Astronomiae pars Sphaerica Meth. Euclidea. <hi>Gen.</hi> 1657</item>
+               <item>45 Is. Barrow Lectiones Mathematicae. <hi>Lond.</hi> 1683</item>
+               <item>46 Physica Harmonica. a Joan. Hen. Alstedio.</item>
+               <item>47 Aus. Popme de Differentiis Verborum. 1660</item>
+               <item>48 Persius Enucleatus, sive Comment. in Persiam. <hi>Amst.</hi> 1664</item>
+               <item>49 Joan. Wallis D. D. Elenchus Geometriae Hobbiane. <hi>Ox.</hi> 1655</item>
+               <item>50 Eil. Lubini Antiquarius &amp; Ch. Cellari Antibarbarus Latinis. 1679</item>
+               <item>51 Tract. Astrologicus, de Genethliacor. Them. pro sing. Nati Accident. 1633</item>
+               <item>52 Epitome Astronomiae Copernicanae. a Joan. Keplero. <hi>Franc.</hi> 1635</item>
+               <item>53 Euclids Elements, the 15 Books, by Is. Barrow. D.D. <hi>Lond.</hi> 1660</item>
+               <item>54 Eus. de Divinis Septempedani Brevis Annotatio, cum Literi<gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Ejus. <hi>Rome.</hi> 1660</item>
+               <item>55 De Patriculis Latinae Orationis a Hor. Turcellini. <hi>Gen.</hi> 1657</item>
+               <item>56 De Occultic. Literarum Notis a J. B. Portae figuris.</item>
+               <item>57 Melch. Weenrichi Erratium Poeticum. <hi>Franc.</hi> 1654</item>
+               <pb n="11" facs="tcp:171046:8"/>
+               <item>58 A Description of a Portable Instrument for Math. use.</item>
+               <item>59 Palestra Eloquentiae Ligatae a Jac. Masennio. 1661</item>
+               <item>60 Elementa Trigonometrica, id est Sinus Tang. Secantes, <hi>&amp;c.</hi> a Ch. Grienber<g ref="char:EOLhyphen"/>geri 1630</item>
+               <item>61 Guil. Oughtrid Clavis Mathematicae <hi>Ox.</hi> 1667</item>
+               <item>62 Egid. Strauchii de numerorum doctrina Aphorismi 343 <hi>Wit.</hi> 1662</item>
+               <item>63 Letters by Monsieur Voiture—Englished by <hi>J. D.</hi> 1657</item>
+               <item>64 Linguae Latinae Ornatus a Fr. Silvio <hi>Nor.</hi> 1667</item>
+               <item>65 Joan. Buxtorfii Lexicon. Heb. &amp; Chaldaicum <hi>Bas.</hi> 1663</item>
+               <item>66 Car. Ant. Mangini Tabulae primi Mobilis <hi>Bon.</hi> 1626</item>
+               <item>67 Cl. Timpleri Opticae &amp; Physiog humana, &amp; Ant. Scarmellis de coloribus</item>
+               <item>68 Mi. Majeri Tractat. Posthumus sive Myster.</item>
+               <item>69 Cor. ab. Hogelandi Animae Spiritualis &amp; Economi a Corporis, &amp;c. <hi>Amst.</hi> 1646</item>
+               <item>70 Philosoph. Veterum. E ment. Ren. D. Cartes, a <hi>Ant. Legrand</hi> 1672</item>
+               <item>71 Euclidis Elementorum, Lib. 6. cum figuris 1647</item>
+               <item>72 Cl. Eliani Variae Historiae. Gr. Lat. cum Not. J. Schefferi 1647</item>
+               <item>73 Arithmeticus Fabularis, Poetarum Philosoph. Anagrammat. <hi>Med.</hi>
+               </item>
+               <item>74 Joan. Geraldini de Meteor. <hi>Par.</hi> 1613</item>
+               <item>75 Caramel. Panormitani, Illustrium poetarum, cum notis. <hi>Ven.</hi> 1651</item>
+               <item>76 The Great and New Art of weighing Vanity, by P. Mathers, Scotus. 1672</item>
+               <item>77 Pet. Laurembergij Institutiones Arithmeticae. <hi>Jen.</hi> 1659</item>
+               <item>78 Euclidis Elementorum. Lib. 8. a Mounsieur De Chales. <hi>Lugd.</hi> 1660</item>
+               <item>79 Hispaniae &amp; Lusitaniae Itinerarium Nova Descrip. cum figuris. <hi>Amst</hi> 1656</item>
+               <item>80 Lud. Vive Introduc. ad Sapient. &amp; Erasmi. de Cop. Verbor. <hi>Ludg. Bat.</hi>
+               </item>
+               <item>81 Novem Stellae Circa Jovem &amp; Saturn. Sex. a J. Caramuel. <hi>Lovan.</hi>
+               </item>
+               <item>82 J. M. Dilherri Rudiment. Grammat. Seriacae. 1658</item>
+               <item>83 Sphigmicae Artis a Jos. Struthio. <hi>Bas.</hi>
+               </item>
+               <item>84 Gas. Scioppij Grammatica Philosophica. <hi>Amst.</hi> 1664</item>
+               <item>85 A New Touchstone for Gold and Silver Wares, second Edition. 1679</item>
+               <item>86 The Act for Tonnage and Poundage, and Book of Rates to the year 1682</item>
+               <item>87 Joan. Micraelii Regia Polit. Scientia <hi>Stet.</hi> 1656</item>
+               <item>88 Opera <hi>Aristotelis,</hi> Gr. &amp; Lat. in 2 Vol. 1597</item>
+               <item>89 Astronomia Geometrica, à <hi>Seth. Wardo,</hi> D. D. 1656</item>
+               <item>90 Biblia Sacra vulg. Ed. Sixti Quinti <hi>Lugd.</hi> 1669</item>
+               <item>91 J. Lipsii Philosophia &amp; Physiologica Stoica. <hi>Ludg. Bat.</hi>
+               </item>
+               <item>92 J. Pe. Adolpho Medulla Oratoria <hi>Franc.</hi> 1663</item>
+               <item>93 J. M. Dilherri Apparatus Philologiae <hi>Nor.</hi> 1660</item>
+               <item>94 Mar. Ficini de Religion Christiana advers. Judeos Turc. 1617</item>
+               <item>95 Chimista scepticus à <hi>Rob. Boyle Rot.</hi> 1670</item>
+               <item>96 A compleat Collection of the Poets, by <hi>Ed. Phillips</hi> 1675</item>
+               <item>97 Cons. Manassis Annales 1573</item>
+               <item>98 M. Ant. Zimarae Tractatus Magicus &amp; Oracula Chaldeorum <hi>Franc.</hi> 1673</item>
+               <item>99 J. Jonstoni Naturae Constantia, Notitia Regni vegetabilis, &amp; Mineral. 1634</item>
+               <item>100 Joan. Ganiveti Amicus Medicorum</item>
+               <item>101 An. Indian Grammar <hi>American</hi> 1643</item>
+               <item>102 Compend. historiae Veteris &amp; Novi Testamenti, à <hi>J. Cluverio</hi> 1645</item>
+               <item>103 M. Pausae de Osculo seu consensu Ethnicae &amp; Christianae Philo. 1605</item>
+               <item>104 Rabdologiae, seu Numeratio per Virgulas à Joan. Nepero. <hi>Lugd.</hi>
+               </item>
+               <pb n="12" facs="tcp:171046:9"/>
+               <item>105 De Natura &amp; Methodo Theologiae à Abr. Calovio 1667</item>
+               <item>106 J. Bap. Portae Magiae Naturalis <hi>Amst.</hi> 1664</item>
+               <item>107 De Jure quod in Imperium Regi Galliarum nullum competit. 1668</item>
+               <item>108 Philosophicus Interpres. seu distinctio. Phylosoph. Nova synop. <hi>Par.</hi> 1665</item>
+               <item>109 Epistolae J. Keppelei &amp; M. Berneggeri mutuae <hi>Argent.</hi> 1672</item>
+               <item>110 Procli Diadochi Paraphr. in Holemaei, lib. 6. de Syderum affect. G. L. Elz.</item>
+               <item>111 D. Heinisi de Contempt. mortis &amp; Molleri de condit. temp. Present. 1673</item>
+               <item>112 Introductio ad Lectionem Linguar. Orientalium à Episcop. Walton 1655</item>
+               <item>113 Chr. Cellari da Barberismis &amp; Idiotismis Sermonis Latinae, &amp; Hadriani de Serm. Latino 1686</item>
+               <item>114 Hypotiposis Philosophia. Venetiis. in domo professa Soc. Iesu 1660</item>
+               <item>115. J. Fortii Opera Mathemat. &amp; alii Tract.</item>
+               <item>116 Regnorum Daniae &amp; Norweigiae. Nova Descriptio cum Figuris 1655</item>
+               <item>117 De Vanitate Medicinae Chimicae, seu Spagiriae, à A. Ganthew 1640</item>
+               <item>118 Aristophanis Comaediae, Gr. Lat. <hi>Lugd. Bat.</hi>
+               </item>
+               <item>119 Ed. Herbert Baro de Cherbury, de Veritate 1656</item>
+               <item>120 Geo. Horne Orbis politicus, cum animadvers. Meuckeni 1685</item>
+               <item>121 Hen. Schaevi Mythologia Deorum ac Heroum 1661</item>
+               <item>122 Phil. Cluverii Introduct. in Univers. Geographiam <hi>Amst.</hi> 1670</item>
+               <item>123 Joan. Scheffori Graphice, sive de Arte Pingendi <hi>Nor.</hi> 1669</item>
+               <item>124 Euclidis Elementa Geometrica Novi. Ovid. ac Meth. fere demonstrata 1666</item>
+               <item>125 D. Whear Methodus Legendi Historias <hi>Nor.</hi> 1666</item>
+               <item>126 Egid. Stranchii Aphorismi Astrologici &amp; Leovitii de Jude Nativitat. 1666</item>
+               <item>127 R. Hues de Globis &amp; Nottnagelii Synopsis Mathematica 1665</item>
+               <item>128 Alphabeti vere Naturalis Hebraici brevis. Delineatio. cum figuris 1657</item>
+               <item>129 Geographia Generalis à Ber. Vorenio, M. D. <hi>Amst.</hi> 1664</item>
+               <item>130 The Original and Growth of Heraldry, by Mr. <hi>Philpot</hi> 1672</item>
+               <item>131 A Compendium of practical Musick by Mr. <hi>Simpson</hi> 1678</item>
+               <item>132 Medulla Theologiae, à H. Freidliebio <hi>Lip.</hi> 1659</item>
+               <item>133 British Tables, the Doctrine of the Sphere, <hi>&amp;c.</hi> by Mr. <hi>Shakerley</hi>
+               </item>
+               <item>134 Novum Testamentum Syriace á Egyd. Gutbirio <hi>Ham.</hi> 1664</item>
+               <item>135 Demonstratio Immortalitatis Animae Ration. <hi>&amp;c.</hi> by Sir <hi>K. Digby</hi> 1666</item>
+               <item>136 Po. Mela &amp; Sol. Polyhistor. de Orbis situ</item>
+               <item>137 D. Hartnacci de notioribus Naturae cum Al. Tract. 1668</item>
+               <item>138 Exper. &amp; Observat. upon the Icy Noctiluca, by <hi>R. Boyle,</hi> Esq 1681</item>
+               <item>139 R. D. Cartes Meditationes, &amp; Velthusii Annotationes <hi>Lond.</hi> 1664</item>
+               <item>140 A Key to the whole Art of Astrology, by <hi>Hen. Coley,</hi> last Edit. 1676</item>
+               <item>141 Egyd. Stranchii breviarum Chronologicum <hi>Witt.</hi> 1664</item>
+               <item>142 Epist. Dissertatio de principiis Justi &amp; Decori, vel Apolog. Hobbaei de Cive.</item>
+               <item>143 G. Grotii de principiis Juris Naturalis <hi>Gen.</hi> 1669</item>
+               <item>144 Chr. Nold<gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i de virtute &amp; vitio distinctionis <hi>Franc.</hi> 1675</item>
+               <item>145 Aegid. Strauchii Tabulae in Univers. Mathesin sum. opere 1662</item>
+               <item>146 An Idea of Arith. by <hi>R. B.</hi> Explanation of Problems in Geometry, and <hi>Da<g ref="char:EOLhyphen"/>ries</hi> Mathematical Miscellanies 1669</item>
+               <item>147 C. Suetonius Tranquillus cum Annotationibus <hi>Ox.</hi> 1661</item>
+               <item>148 Hen. Cor. Agrippa Opera <hi>Lugd.</hi> 1600</item>
+               <item>149 De principiis Rerum lib. 3. à Guil. Lamy. <hi>Par.</hi> 1669</item>
+               <item>150 Humane Industry, or the History of Manual Arts <hi>Lond.</hi> 1661</item>
+               <pb n="13" facs="tcp:171046:9"/>
+               <item>151 P. Lud. Elich. Demonomagia sive de Daemonis Cacurgia, Cacomacorum &amp; La<g ref="char:EOLhyphen"/>miarum Energia <hi>Franc.</hi> 1607</item>
+               <item>152 J. Lau. Ananiae De Natura Demonum. <hi>Ven.</hi>
+               </item>
+               <item>153 Lexicon Mathematicum Astronom. &amp; Geometricum á H. Vitali <hi>Paris</hi> 1668</item>
+               <item>154 Dion. Cassii Historiae Romanae <hi>Franc.</hi> 1592</item>
+               <item>155 Histoire du Calendrier Romain, par Mr. Blondel <hi>a la Haye</hi> 1684</item>
+               <item>156 Joan. Leoni. Descrip. Africae <hi>Ant.</hi>
+               </item>
+               <item>157 A Vindication of the Church of <hi>Eng.</hi> against the Corruptions of <hi>Rome</hi> by Mr. <hi>Savage</hi> 1684</item>
+               <item>158 Jo. Kirckmanni &amp; Geo. Longi de Annulis <hi>Lugd. Bat.</hi> 1672</item>
+               <item>159 And. Cassii de principe Terrae-Norum sidere Auro <hi>Hamb.</hi> 1685</item>
+               <item>160 Ephem. for 1686, 1687. Dr. H. Mori de Anima. Johnsoni Lexicon Chimicum Ang. Politiani. Silva, Aegid. Stranchii. Aphor. Geom. Trigonom. &amp; Gaeodaeticos Ger. Jo. Vossii de Cognitione sui Bal. Becker de Philosophia Cartesiana. Pet. Lau<g ref="char:EOLhyphen"/>rembergii Institutiones Arithmeticae.</item>
+               <item>161 Nic. Clenardi Grammatica Graeca, in usum Scholarum Societat. Jesu. <hi>Par.</hi> 1665</item>
+               <item>162 Ad. Metij de Genuino usu utriusque Globi <hi>Amst.</hi>
+               </item>
+               <item>163 Homeri Ilias Grecae. <hi>Paris.</hi>
+               </item>
+               <item>164 Joan. Buxtorfij de Abreviaturis Hebraicis. <hi>Bas.</hi> 1640</item>
+               <item>165 Ptolomei Mathematicae Constructionis, ab Eras. Rheinholt.</item>
+               <item>166 Sacra Biblia Hebraea a J. Geo. Nisselij. <hi>Lug. Bat.</hi> 1662</item>
+               <item>167 Janua Linguarum Trilinguis. <hi>Lond.</hi> 1662</item>
+               <item>168 Ar. Montani Psalm. Parabola Job. Ecclesiast. Heb. &amp; Lat. Plantini.</item>
+               <item>169 Joan. Drusij Opuscula &amp; de Literis Moschae Vechaleb. <hi>Franc.</hi>
+               </item>
+               <item>170 Tho. Willis de Morbis Convulsivis &amp; Scorbuto. <hi>Lond.</hi> 1678</item>
+               <item>171 Tho. Lansij Consultatio de Principatu inter Provincias Europae. <hi>Tub.</hi> 1638</item>
+               <item>172 De Anguli Rectilinei Divisione in 3 Equales Demonst. Geometrica. <hi>Par.</hi>
+               </item>
+               <item>173 Greek Testament, Whitaker, neatly bound.</item>
+               <item>174 Ab. de Raconis Opera Philosoph. Metaphis. &amp;c. in three Vol. <hi>Par.</hi> 1646</item>
+               <item>175 Themistij Orationes Gr. &amp; Lat. Id.</item>
+               <item>176 Virgilij Opera cum Not. Tho. Farnaby. Id. 1671</item>
+               <item>177 Jac. Arminij Examen. Predestinat. Perkinsiana. <hi>Ludg. Bat.</hi>
+               </item>
+               <item>178 Apollinarij in Psalmos Versibus Heroicis Gr. Lat. <hi>Comelin.</hi>
+               </item>
+               <item>179 Guel. Oughtredij Clavis Mathematicae. <hi>Oxon.</hi> 1667</item>
+               <item>180 H. Grotij de Jure Belli ac Pacis. <hi>Amst.</hi> 1632</item>
+               <item>181 Juvenal &amp; Persius Notis. Tho. Farnabij. <hi>Par.</hi> 1669</item>
+               <item>182 Hesiodi Opera. a Corn. Schrivelio. <hi>Cant.</hi> 1672</item>
+               <item>183 Joan. Boxtorfij Lexicon Hebraicum. <hi>Bas.</hi> 1663</item>
+               <item>184 —Grammat. Chald. &amp; Syria. 1650</item>
+               <item>185 Thesaurus Linguae Hebraica. 1651</item>
+               <item>186 Psalterium Hebraic. per Hier. Opitium. <hi>Witt.</hi>
+               </item>
+               <item>187 Novum Testamentum. Gr. &amp; Lat. per Erasmum. <hi>Lips.</hi>
+               </item>
+               <item>188 Luciani Dialogi Selecti, cum Nova Versione &amp; Notis ab uno a Patrib. S. J. <hi>Aug.</hi>
+               </item>
+               <item>189 P. Merulae Cosmographiae Generalis, cum figuris. in 6 Vol. <hi>Franc.</hi> 1654</item>
+               <item>190 Epitome Topographica Totius Orbis, per Jo. Vadianum.</item>
+               <item>191 Marc. Wendelimi Christianae Theologiae. <hi>Amst.</hi> 1646</item>
+               <item>192 Bi<gap reason="illegible" resp="#uom" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Septuaginta Graecae, in 2 Vol. <hi>Cant.</hi> 1665</item>
+               <item>193 Artifici<gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Arithmetick in Decimals, by Rob. Jaget. 1651</item>
+            </list>
+            <list>
+               <pb n="14" facs="tcp:171046:10"/>
+               <head>BOOKS in Folio, <hi>Latin, English, French.</hi>
+               </head>
+               <item>1 TRyals of Stailey, Coleman, Ireland, Pickering, Grove, Green, Berry, Hill, Whitebread, Fenwick, Harcourt, Gavan, Turner, and Langhorn; Eve<g ref="char:EOLhyphen"/>rard's Depositions, State of the Protestant Princes, Prance and Bedloe's Narra<g ref="char:EOLhyphen"/>tives. 1678</item>
+               <item>2 A Collection of 18 Narratives, Tryals, and other Tracts. 1679</item>
+               <item>3 Tracts about the Bishops Sitting in Parliament. 4 About the Succession, and the Tryals of Mitchel for the Murder of the Arch Bishop of St. Andrews, and Ma<g ref="char:EOLhyphen"/>jor Weir.</item>
+               <item>5 Ursinus Sum of Christian Religion, Englished by Dr. Parry. 1633</item>
+               <item>6 The Works of G. Babington, Bishop of Worcester. 1615</item>
+               <item>7 Calvin's Institutions, English. 1562</item>
+               <item>8 Dr. Kellet, of the State of the Soul in her Origin. Seperat. and Judgment. 1633</item>
+               <item>9 Machine's Lex Mercatoria, with Daforne's Accounts. 1636</item>
+               <item>10 Camerius's Observations, Historical, Natural, Political, and Poetical. 1625</item>
+               <item>11 Clark's Account of the Persecutions against the Church of Engl. with Lives. 1642</item>
+               <item>12 Guillam's Display of Heraldry, 4th Edition, with Mr. Nower's Additions. 1660</item>
+               <item>13 Hayns's Account of the Times, Places, and Persons of the H. Scriptures 2 Ed. 1640</item>
+               <item>14 Calvin's Sermons upon the Book of Job. 1580</item>
+               <item>15 Bishop Jewel's Defence of the Church of England. 1570</item>
+               <item>16 Perkin's Works, gathered into one Volume. 1603</item>
+               <item>17 Book of Common-Prayer, with the singing Psalms. 1636</item>
+               <item>18 Bishop William's against Sacrilege, grand Rebellion, Rights of Kings, &amp;c. 1663</item>
+               <item>19 Herbert's Travels, with Cuts. 1634</item>
+               <item>20 Dr. Whirgift against Cartwright. 1574</item>
+               <item>21 Dr. Brown's Religio Medici, with Annot. and Sir K. Digby's Annotations. 1685</item>
+               <item>22 Seldens 4 Tracts, three never before Extant. 1683</item>
+               <item>23 Highmore Disquisitio Anotomica, cum figuris. <hi>Hag. Com.</hi> 1651</item>
+               <item>25 Andrae Alberti de Perspectiva &amp; Umbra, cum figuris. <hi>Nor.</hi> 1671</item>
+               <item>26 Gualt. Charlton, M. D. De Differentiis &amp; Nominibus Animalium figuris. 1677</item>
+               <item>27 Lexicon. Philologicum Precipue Etymologicum a M. Martino D. D.</item>
+               <item>28 Platonis Opera Omnia. <hi>Bas.</hi>
+               </item>
+               <item>29 A large Dictionary in three parts, compleated by Tho. Holyoke. D. D. 1677</item>
+               <item>30 Philosophica Univers. Speculativa Peripatetica in 4 Vol. a Caj. Felicio. <hi>Mon.</hi> 1684</item>
+               <item>31 Dictionarium Hist. Geographicum &amp; Poeticum, a Nic. Lloyd. <hi>Lond.</hi> 1686</item>
+               <item>32 Historia Plantarum in Duob. Voluminibus, a Joan Raio. 1686</item>
+               <item>33 Mar. Ghetaldi de Resolutione &amp; Compositione Mathematica. <hi>Rom.</hi> 1630</item>
+               <item>34 Perfectissimi Calepeni Dictionarium Septem Linguarum. <hi>Ven.</hi> 1672</item>
+               <item>35 Oront. Finei Delph. Spher. Mundi &amp; J. Bap. Benedicti Diversarium Speculatio<g ref="char:EOLhyphen"/>num Mathematicarum. <hi>Taur.</hi> 1585</item>
+               <item>36 Biblia Sacra a Junio &amp; Tremelio <hi>Han.</hi> 1626</item>
+               <item>And. Schoneri Gnomonice. Id est Descript. Horologiorum, &amp;c. <hi>Nor.</hi>
+               </item>
+               <item>38 Regola delli Cinque Ordini D'Architectura Di B. Vignola.</item>
+               <item>39 Joan. Kepleri Harmonices Mundi in 5 Lib. <hi>Lins</hi> 1619</item>
+               <item>40 Joan. Bagerij Uranometria, Omnium Asterismorum Continen<gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Schemata
+<pb n="15" facs="tcp:171046:10"/> Nova Methodo Delineata Aeris Laminis Expressa. <hi>Ʋlm.</hi> 1661</item>
+               <item>41 Tabulae Rodolphinae. 1627</item>
+               <item>42 Geo. Agricolae de Re Metallica <hi>Froben.</hi>
+               </item>
+               <item>43 Comples Reales, or Accounts ready cast, on 33 Copper Plates.</item>
+               <item>44 Gasp. Schottis, Cursus Mathematicus. <hi>Herb.</hi> 1661</item>
+               <item>45 Joan. D. Luneschlos Thesaurus Mathemat. per Algebram Novam. <hi>Pat.</hi> 1646</item>
+               <item>46 Detz. Clu<gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erij Pandectae Astronomicae. 1627</item>
+               <item>47 Balth. Cellarij Physichae Ethicae. Pol. &amp; Stahlij Metaphysicae. <hi>Gen.</hi> 1655</item>
+               <item>48 Alph. Pandulphi Episcop. Comaclensis de fine Mundi. <hi>Bon.</hi> 1658</item>
+               <item>49 S. Rom. Germanici Historico-Heraldico Genealogica. <hi>Tub.</hi> 1684</item>
+               <item>50 Fran. Vietae Opera Mathematica a Fran. a Scooten. <hi>Ludg. Bat.</hi> 1646</item>
+               <item>51 Aelfredi Regis Angliae Vita, per Henry Spelman. <hi>Oxon.</hi> 1675</item>
+               <item>52 De Eloquentiae Sacrae &amp; Humanae Paralleia a Nich. Cassino. 1619</item>
+               <item>53 Regionomento di Luca contili Sopra La Propieta Delle Impresse Con La Parti<g ref="char:EOLhyphen"/>co lati de Gli Academici. 1574</item>
+               <item>54 Cartes Geographiques, de Monarchies Voyages Guerres, &amp;c. Avec 60 figures. Par Du Val. 1677</item>
+               <item>55 Les Costes. De La Mer, Mediterranee En Plusier. Cartes Par Du Val.</item>
+               <item>56 La Castramentation. &amp; Novelle Mariere de Fortification avec figures. 1618</item>
+               <item>57 Dav. Sanclari Pro Archimede &amp; Euclide. <hi>Par.</hi> 1622</item>
+               <item>58 Le Goverment de La Chavallerie <gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>equiere, Avec figures. <hi>Han.</hi>
+               </item>
+               <item>59 Instruction Chrestienne En La Doctrine de La Loy &amp; de L'Evangile Par Pi. Viret.</item>
+               <item>60 Les Blazons Des Armoiries de la Royalle Maison Bourbon. <hi>Paris.</hi> 1626</item>
+               <item>61 Le Blason Des Armoiries Par. Hier. de Bara. Paris.</item>
+               <item>62 Le Blason Armes Des Chevaliers de La Jartiere, de Ce Regne &amp; Illust. Fam. In Quires, avec figures</item>
+               <item>63 Propositions Mathematiques de Mounsieur de La Leu, avec figures. <hi>Paris.</hi>
+               </item>
+               <item>64 De La Charge De Governeurs Des Places. Id. 1639</item>
+               <item>65 Les Oeuvres Mathematiques de S. Stevin Augment. Par. Alb. Girard. <hi>Leyd.</hi> 1634</item>
+               <item>66 Histoire de France Par de Serves. <hi>Paris.</hi> 1620</item>
+               <item>67 A Perfect Copy of the Summons of the Parliament with a Catalogue of the Nobility, by Sir William Dugdale. 1585</item>
+               <item>68 P. Nenii de Obser. Reg. &amp; Instr. Geom. l. de Monteregio de Triangulis &amp; D. Sautbech. Preblem. Astron. &amp; Geom.</item>
+               <item>87 Rami Scholarum Mathematicarum <hi>Basil.</hi> 1569</item>
+               <item>88 R. Fludd Meteorologia Cosmica. <hi>Franc.</hi> 1626</item>
+               <item>89 S. Marolvis de Fortificatione, cum multis figuris. <hi>Amst.</hi> 1633</item>
+               <item>90 Prospectiva del Vignela. Italian. <hi>Rom.</hi> 1644</item>
+               <item>91 Art <gap reason="illegible" resp="#uom" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ilitaire a Cheval. de la Cavallerie, &amp; deses quatre Especes, Ascavoir, Lau<g ref="char:EOLhyphen"/>ces, Corrasses, Arquebus, &amp; Drageons, avec tout cequi est de Leur Charge Exer<g ref="char:EOLhyphen"/>cice, avec figures.</item>
+               <item>92 Traicte de L'Artillerie &amp; Usage D'Icclle Faict &amp; Prattique es Guerres de Flanders. Par Dieg. Usan. Velasco, avec Figures.</item>
+               <item>93 Memoires Mathematiques par Simon Stevin. Fr. <hi>Leyd.</hi> 1608</item>
+               <item>94 Histoire du Mareschal de Toiras. Fr. <hi>Paris.</hi> 1644</item>
+               <item>95 La Fortification Demosistree par J. E. de Bare le duc. <hi>Par.</hi> 1620</item>
+               <item>96 La Milire Romane avec Mult. fig. par. J. Jaques. <hi>Franc.</hi> 1616</item>
+               <item>97 Le <gap reason="illegible" resp="#uom" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>leire Francois par. Sal. de La Brove. <hi>Paris.</hi> 1602</item>
+               <pb n="16" facs="tcp:171046:11"/>
+               <item>98 L' Architectures des Voictes, par Fr. Derand. <hi>Paris.</hi> 1643</item>
+               <item>99 La Dioptrique Occulaire, par Cherubin D'Orleans. <hi>Paris.</hi> 1671</item>
+               <item>100 Les Fortifications du Chev. A. de Ville, avec L'Attaque &amp; Defence des places, avec figures. <hi>a Lyon.</hi> 1641</item>
+               <item>101 L'Ambascade de la Compagnie Orientale des Prov. Univers. L'Empereur, de la Chine, &amp;c. avec Figures. <hi>Leyd.</hi> 1665</item>
+               <item>102 La Grand Chronique de Holland, Zeland, &amp;c. avec fig. Vol. 1 <hi>Dord.</hi> 1605</item>
+               <item>103 Voyage du Chev. Chardin en Persie &amp; Indes Orient. Vol. 1. <hi>Lond.</hi> 1676</item>
+               <item>104 14 Forms of Fortifications, par Gerrard de Jode Funrij Chronol. <hi>Wittem.</hi> 1578</item>
+               <item>105 F. Spaheimij Oratio Funibris in J. Polyander, &amp;c. L. <hi>Bat.</hi> 1646</item>
+               <item>106 Pharmacopeia Londinensis Collegarum. <hi>Lond.</hi> 1650</item>
+               <item>107 Cosmographia Universalis, per Sebasti. Munster, cum mult. Fig. <hi>Bas.</hi> 1550</item>
+               <item>108 Rodolphi Hospineant Hist. Jesuitica.</item>
+               <item>109 Fr. Baconi Opera Omnia. <hi>Lond.</hi> 1638</item>
+               <item>110 Skinner Dict. sive Etymolog. Lingu. Anglicanae. <hi>Lond.</hi> 1671</item>
+               <item>111 Ferrarij Lexicon Geographicum. <hi>Lond.</hi> 1657</item>
+               <item>112 J. Remelini Catoptrum Microcosmicum suis Aerae &amp;c. <hi>Alm.</hi> 1639</item>
+               <item>113 Erasmi Aliorumque Adagia Proverbia, &amp;c.</item>
+               <item>114 Comment. in C. Tacit. Ann. &amp; Hist. per A. Scot. Fr. 1691</item>
+               <item>115 Cambden's Britannia Charta Magna. <hi>Amsteld.</hi>
+               </item>
+               <item>116 Bibliander Cronicon, Fol. deauratis. <hi>Bas.</hi>
+               </item>
+               <item>117 Bellarmini de Controversiis de Christiana Fide. 2. Vol. <hi>Par.</hi> 1605</item>
+               <item>118 Haipineau Historia Jesuitica.</item>
+               <item>119 Sti. Ambrosij Opera, Vol.</item>
+               <item>120 Sti. Bernardi Opera Omnia.</item>
+               <item>111 Antonii Nebrisensis Rerum Hispanarum. 1545</item>
+               <item>112 Causinus de Regno Dei. <hi>Paris.</hi> 1650</item>
+               <item>113 T. Aquinaei in Quatuor. Evangel. <hi>Anvers.</hi> 1612</item>
+               <item>114 Aldrovandus de Avibus Historiae cum figuris. <hi>Franc.</hi> 1610</item>
+               <item>115 — de Quadrupedibus Solidipedibus. <hi>Franc.</hi> 1623</item>
+               <item>116 Herman. Hugo de Obsidio Bredana, cum Figuris. <hi>Antwerp.</hi> 1626</item>
+               <item>117 Sextus Empericus Advers. Mathematicus &amp; Sexti Pyrrh. <hi>Plant.</hi> 1629</item>
+               <item>118 Paraelelmum Olivae nec non Olivarij, per Ludovici de Gand. <hi>Lond.</hi> 1656</item>
+               <item>119 Biblia Sacra Lat. cum Scholijs Amphis. Junij &amp; Tremelij.</item>
+               <item>120 Arriaga Cursus Philosophicus <hi>Paris.</hi> 1637</item>
+               <item>121 Senecae Opera cum Scolijs Erasmi. <hi>Basil.</hi> 1537</item>
+               <item>122 Aulus Gellius Petrus Blessensis Opera &amp; R. Agricola de invent.</item>
+               <item>123 Historia Concilia Florentini. Gr. &amp; Lat.</item>
+               <item>124 Lesij de Justitia &amp; Jure. <hi>Paris.</hi> 1618</item>
+               <item>126 Plutarchii Opera Omnia Ethica sive Moralia <hi>Fran.</hi> 1580</item>
+            </list>
+            <pb facs="tcp:171046:11"/>
+         </div>
+      </body>
+   </text>
+</TEI>
